@@ -1,0 +1,13 @@
+<div id="form-inscricao">
+	<% form_for @participante do |f| %>
+		<div class="validation-error"></div>
+		<div class="rowElem"><%= f.label :nome_completo, "Nome Completo:" %> &nbsp; <%= f.text_field :nome_completo, :class => "validate(required)" %></div>
+		<div class="rowElem"><%= f.label :email, "Email:" %> &nbsp; <%= f.text_field :email, :class => "validate(required, email)" %></div>
+		
+
+			<div class="rowElem"><%= f.label :telefone, "Telefone:" %> &nbsp; <%= f.text_field :telefone, :class => "w100 validate(required)" %> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex: (84) 3232-3232 </div>
+			<div class="rowElem"><%= f.label :matricula, "Matrícula:" %> &nbsp; <%= f.text_field :matricula, :class => "w100 validate(required)" %> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex: 201014040000</div>
+		<br/>
+		<div class="rowElem"><button class=" jqTransformButton" type="submit" name="" id=""><span><span>Fazer Inscrição</span></span></button></div>
+	<% end %>
+</div>

@@ -1,0 +1,867 @@
+
+
+Processing PrincipalController#index (for 127.0.0.1 at 2010-05-27 14:05:03) [GET]
+Rendering template within layouts/application
+Rendering principal/index
+Completed in 218ms (View: 207, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PrincipalController#index (for 127.0.0.1 at 2010-05-27 14:06:36) [GET]
+Rendering template within layouts/application
+Rendering principal/index
+Completed in 26ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PrincipalController#index (for 127.0.0.1 at 2010-05-27 14:06:47) [GET]
+Rendering template within layouts/application
+Rendering principal/index
+Completed in 28ms (View: 18, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PrincipalController#index (for 127.0.0.1 at 2010-05-27 14:07:10) [GET]
+Rendering template within layouts/application
+Rendering principal/index
+Completed in 141ms (View: 128, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:29:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 48, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:29:53) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 20ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:30:04) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 21ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:30:39) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 18ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:31:15) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 17ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:31:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 17ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:33:59) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 36ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:34:48) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 21ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:35:26) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 22ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:35:37) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 19ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:36:24) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 127ms (View: 115, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:36:52) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 20ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:37:24) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 18ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:38:13) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 25ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:38:29) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 22ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:38:38) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 18ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:39:01) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 21ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:39:12) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 21ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:39:52) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 36ms (View: 24, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:40:32) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 20ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:40:57) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 20ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:41:27) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 34ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:41:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 18ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:42:01) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 32ms (View: 22, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:44:48) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 37ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (46.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (148.4ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("schema_migrations")[0m
+  [4;36;1mSQL (129.9ms)[0m   [0;1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;35;1mSQL (2.9ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+Migrating to CreateParticipantes (20100602232658)
+  [4;35;1mSQL (3.9ms)[0m   [0mCREATE TABLE "participantes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome_completo" varchar(255), "email" varchar(255), "telefone" varchar(255), "matricula" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20100602232658')[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("participantes")[0m
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:49:25) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 71ms (View: 61, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:50:57) [GET]
+
+NameError (uninitialized constant PaginaEsperaController::Participante):
+  app/controllers/pagina_espera_controller.rb:3:in `index'
+
+Rendered rescues/_trace (223.6ms)
+Rendered rescues/_request_and_response (4.9ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:51:20) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+
+ActionView::TemplateError (undefined method `participantes_path' for #<ActionView::Base:0x66d5e9c>) on line #25 of app/views/layouts/pagina_espera.html.erb:
+22: 			<p>Preencha abaixo o formulário e fique ligado sobre eventos e reuniões.</p>
+23: 			
+24: 			<div id="form-inscricao">
+25: 				<% form_for @participante do |f| %>
+26: 				<%= f.label :nome_completo, "Nome Completo:" %>				  
+27: 				<% end %>
+28: 			</div>
+
+    app/views/layouts/pagina_espera.html.erb:25
+
+Rendered rescues/_trace (283.2ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:52:04) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 46ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:52:39) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+
+ActionView::TemplateError (undefined method `text_input' for #<ActionView::Helpers::FormBuilder:0x6752a50>) on line #26 of app/views/layouts/pagina_espera.html.erb:
+23: 			
+24: 			<div id="form-inscricao">
+25: 				<% form_for @participante do |f| %>
+26: 					<div><%= f.label :nome_completo, "Nome Completo:" %>	<%= f.text_input :nome_completo %></div>
+27: 				<% end %>
+28: 			</div>
+29: 			
+
+    app/views/layouts/pagina_espera.html.erb:26
+    app/views/layouts/pagina_espera.html.erb:25
+
+Rendered rescues/_trace (270.5ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:52:58) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 220ms (View: 60, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:53:54) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 69ms (View: 37, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:54:57) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 54ms (View: 21, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:56:37) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 57ms (View: 22, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:57:17) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 68ms (View: 35, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:57:31) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 54ms (View: 21, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:57:57) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 52ms (View: 22, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:58:13) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 20:58:44) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 52ms (View: 21, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:00:10) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 68ms (View: 35, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:00:52) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 70ms (View: 37, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:01:39) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 51ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:02:10) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 72ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:03:54) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:04:13) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:06:02) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 79ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:06:24) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:07:26) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:07:58) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:08:15) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 148ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:08:49) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:09:20) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 24, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:09:40) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:10:03) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 57ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:10:57) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:11:14) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 62ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:12:19) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 57ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:12:30) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:12:46) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:13:10) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:13:26) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 172ms (View: 141, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:14:01) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:14:14) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:14:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 72ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:14:48) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 41, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:15:05) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 168ms (View: 137, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:15:34) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 60ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:16:05) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:16:35) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:17:10) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 24, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:17:43) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 28, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:18:00) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 157ms (View: 124, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:18:41) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:19:14) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 80ms (View: 49, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:19:28) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 87ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:19:39) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:20:23) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 72ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:20:48) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:21:01) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:21:13) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 76ms (View: 46, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:21:40) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 76ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:21:51) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 76ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:22:11) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 79ms (View: 49, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:22:21) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 76ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:23:18) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:23:28) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:23:38) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 41, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:24:51) [GET]
+
+ActionView::MissingTemplate (Missing template pagina_espera/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:25:09) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 70ms (View: 38, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:25:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 86ms (View: 56, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:26:59) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 104ms (View: 73, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:27:11) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 60ms (View: 28, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:27:41) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 181ms (View: 147, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:28:36) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:28:52) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 28, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:29:31) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:30:10) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 72ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:30:26) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 166ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:31:07) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:31:27) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 104ms (View: 67, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:31:34) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:31:48) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:32:06) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:32:18) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 63ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:32:56) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-02 21:32:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/ketchup-plugin/js/jquery.min.jsketchup-plugin/js/jquery.ketchup.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:33:28) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 45, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:34:22) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 75ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:34:46) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 103ms (View: 68, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:35:51) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 63ms (View: 31, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:36:22) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 77ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:37:30) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 61ms (View: 29, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:37:40) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 60ms (View: 29, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:37:47) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 61ms (View: 29, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:38:02) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 167ms (View: 137, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:38:08) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 60ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:38:14) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 60ms (View: 28, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:38:33) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 71ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:39:51) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 72ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:40:26) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 62ms (View: 29, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:40:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:40:56) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 58ms (View: 27, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:41:23) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 59ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:41:42) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 57ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:41:58) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 56ms (View: 26, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:43:32) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 70ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:44:47) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 74ms (View: 42, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:49:45) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 203ms (View: 162, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:53:16) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 107ms (View: 72, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:53:46) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 76ms (View: 30, DB: 0) | 200 OK [http://localhost/]

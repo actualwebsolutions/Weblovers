@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>WebLovers &lt;%= "Por uma Web mais apaixonante." %&gt; - Grupo de Estudos sobre Desenvolvimento Web - Natal / RN</title>
+<%= stylesheet_link_tag "pagina_espera.css", "/javascripts/jqtransform/jqtransform.css", "/javascripts/ketchup-plugin/css/jquery.ketchup.css" %>
+<%= javascript_include_tag "ketchup-plugin/js/jquery.min.js", "ketchup-plugin/js/jquery.ketchup.js", "ketchup-plugin/js/jquery.ketchup.messages.js", "ketchup-plugin/js/jquery.ketchup.validations.basic.js", "jquery.maskedinput-1.2.2.min.js" %>
+<script type="text/javascript">
+$(document).ready(function() {
+  $("form").ketchup();
+  $("#participantes_telefone").mask("(99) 9999-9999");
+	$("#participantes_matricula").mask("999999999999");
+
+});
+</script>
+
+</head>
+
+<body>
+	<div id="geral">
+		<div id="logomarca"><%= image_tag("logomarca.png") %></div>
+		<div id="conteudo">
+			<h3>Página em Contrução.</h3>
+			<p>Grupo de Estudos sobre Desenvolvimento Web, sediado no IFRN - Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte, onde nos reunimos para discutir sobre PHP, Python, Ruby on Rails e outras tecnologias web.</p>
+			<p>Preencha abaixo o formulário e fique ligado sobre eventos e reuniões.</p>
+			
+			<%= yield %>
+			
+		</div>
+	</div>
+</body>
+</html>
