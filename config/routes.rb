@@ -1,5 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
   map.resources :participantes
+	map.resources :pagina_espera
 	map.root :controller => "pagina_espera"
   
 	# The priority is based upon order of creation: first created -> highest priority.

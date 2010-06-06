@@ -1,5 +1,5 @@
 <div id="form-inscricao">
-	<% form_for @participante do |f| %>
+	<% form_for @participante, :url => { :action => "create" } do |f| %>
 		<div class="validation-error"></div>
 		<div class="rowElem"><%= f.label :nome_completo, "Nome Completo:" %> &nbsp; <%= f.text_field :nome_completo, :class => "validate(required)" %></div>
 		<div class="rowElem"><%= f.label :email, "Email:" %> &nbsp; <%= f.text_field :email, :class => "validate(required, email)" %></div>

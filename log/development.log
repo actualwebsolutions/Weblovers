@@ -865,3 +865,121 @@ Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-02 21:53:46) [
 Rendering template within layouts/pagina_espera
 Rendering pagina_espera/index
 Completed in 76ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 14:59:59) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 9090ms (View: 9056, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#create (for 127.0.0.1 at 2010-06-06 15:00:34) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+
+NameError (uninitialized constant ParticipantesController):
+  
+
+Rendered rescues/_trace (187.5ms)
+Rendered rescues/_request_and_response (5.9ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-06 15:01:53) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+
+ActionController::RoutingError (No route matches "/participantes" with {:method=>:post}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:02:33) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 85ms (View: 49, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:04:44) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+Redirected to http://localhost:3000/pagina_espera
+Completed in 37ms (DB: 0) | 302 Found [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:04:45) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 62ms (View: 30, DB: 0) | 200 OK [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:05:44) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 73ms (View: 43, DB: 0) | 200 OK [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:06:07) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+Redirected to http://localhost:3000/pagina_espera
+Completed in 37ms (DB: 0) | 302 Found [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:06:08) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 116ms (View: 76, DB: 0) | 200 OK [http://localhost/pagina_espera]
+  [4;36;1mParticipantes Load (1.0ms)[0m   [0;1mSELECT * FROM "participantes" [0m
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:08:32) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+
+ActionView::MissingTemplate (Missing template pagina_espera/create.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mParticipantes Load (0.0ms)[0m   [0mSELECT * FROM "participantes" [0m
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:09:01) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+Redirected to http://localhost:3000/pagina_espera
+Completed in 41ms (DB: 0) | 302 Found [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:09:02) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 80ms (View: 47, DB: 0) | 200 OK [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:10:31) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of ActiveRecord::Base.
+The error occurred while evaluating nil.save):
+  app/controllers/pagina_espera_controller.rb:8:in `create'
+
+Rendered rescues/_trace (321.3ms)
+Rendered rescues/_request_and_response (2.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PaginaEsperaController#create (for 127.0.0.1 at 2010-06-06 15:11:07) [POST]
+  Parameters: {"participantes"=>{"nome_completo"=>"Allyson Barros", "telefone"=>"(84) 3201-7887", "matricula"=>"200924040192", "email"=>"allysonbarrosrn@gmail.com"}, "authenticity_token"=>"RfS2YBs3JmmP+qFxiQ5xTXHYSi/EdREghZqPJ52BjnY="}
+  [4;36;1mParticipantes Create (2.9ms)[0m   [0;1mINSERT INTO "participantes" ("nome_completo", "telefone", "created_at", "updated_at", "email", "matricula") VALUES('Allyson Barros', '(84) 3201-7887', '2010-06-06 18:11:07', '2010-06-06 18:11:07', 'allysonbarrosrn@gmail.com', 200924040192)[0m
+Redirected to http://localhost:3000/pagina_espera
+Completed in 243ms (DB: 3) | 302 Found [http://localhost/pagina_espera]
+
+
+Processing PaginaEsperaController#index (for 127.0.0.1 at 2010-06-06 15:11:08) [GET]
+Rendering template within layouts/pagina_espera
+Rendering pagina_espera/index
+Completed in 62ms (View: 28, DB: 0) | 200 OK [http://localhost/pagina_espera]
+  [4;36;1mParticipantes Load (1.0ms)[0m   [0;1mSELECT * FROM "participantes" [0m
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mParticipantes Load (1.0ms)[0m   [0;1mSELECT * FROM "participantes" LIMIT 1[0m
+  [4;35;1mParticipantes Load (1.0ms)[0m   [0mSELECT * FROM "participantes" LIMIT 1[0m

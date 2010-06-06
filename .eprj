@@ -12,6 +12,8 @@
             <string>..\ipi_natal\public\javascripts\audio-player.js</string>
             <key>contro</key>
             <string>test\functional\pagina_espera_controller_test.rb</string>
+            <key>cus</key>
+            <string>..\ipi_natal\public\javascripts\tabs\flick\jquery-ui-1.8.1.custom.css</string>
             <key>ema</key>
             <string>..\ipi_natal\app\views\emails\email_namorados.erb</string>
             <key>emai</key>
@@ -24,14 +26,24 @@
             <string>..\ipi_natal\app\views\galeria_fotos\index.html.erb</string>
             <key>intera</key>
             <string>..\ipi_natal\app\controllers\interacao_controller.rb</string>
+            <key>intern</key>
+            <string>..\ipi_natal\public\stylesheets\internas.css</string>
             <key>internas</key>
             <string>..\ipi_natal\public\stylesheets\internas.css</string>
             <key>jq</key>
             <string>public\javascripts\jqtransform\jqtransform.css</string>
+            <key>jquery</key>
+            <string>..\ipi_natal\public\javascripts\tabs\flick\jquery-ui-1.8.1.custom.css</string>
+            <key>jqueryio</key>
+            <string>..\ipi_natal\public\javascripts\tabs\flick\jquery-ui-1.8.1.custom.css</string>
             <key>ket</key>
             <string>public\javascripts\ketchup-plugin\css\jquery.ketchup.css</string>
+            <key>ketch</key>
+            <string>..\ipi_natal\public\javascripts\ketchup-plugin\css\jquery.ketchup.css</string>
             <key>light</key>
             <string>..\ipi_natal\public\javascripts\lightbox\jquery.lightbox.js</string>
+            <key>mascu</key>
+            <string>..\ipi_natal\app\views\namorados\_casados_masculino.html.erb</string>
             <key>namor</key>
             <string>..\ipi_natal\app\controllers\namorados_controller.rb</string>
             <key>namorados</key>
@@ -42,8 +54,14 @@
             <string>app\controllers\pagina_espera_controller.rb</string>
             <key>podcas</key>
             <string>..\ipi_natal\app\views\interacao\podcasts.html.erb</string>
+            <key>prin</key>
+            <string>..\ipi_natal\public\stylesheets\principal.css</string>
             <key>princ</key>
             <string>..\ipi_natal\public\stylesheets\principal.css</string>
+            <key>rout</key>
+            <string>..\ipi_natal\config\routes.rb</string>
+            <key>ver_men</key>
+            <string>..\ipi_natal\app\views\namorados\ver_mensagem.html.erb</string>
             <key>votar</key>
             <string>..\ipi_natal\app\views\enquetes\votar.js.erb</string>
         </dict>
